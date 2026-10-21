@@ -1,0 +1,38 @@
+second_screen,record_id,from_set,Publication Year,Title,Source Title,DOI,link
+U,737,342,2019,An image encryption scheme based on hybridizing digital chaos and finite state machine,Signal Processing,10.1016/j.sigpro.2019.06.013,https://doi.org/10.1016/j.sigpro.2019.06.013
+U,756,342,2019,A cascading method for constructing new discrete chaotic systems with better randomness,"Chaos (Woodbury, N.Y.)",10.1063/1.5094936,https://doi.org/10.1063/1.5094936
+U,768,342,2020,A New Image Encryption Scheme Based on Hybrid Chaotic Maps,Complexity,10.1155/2020/9597619,https://doi.org/10.1155/2020/9597619
+U,650,342,2021,Research on Pseudorandom Number Generator Based on Several New Types of Piecewise Chaotic Maps,Mathematical Problems in Engineering,10.1155/2021/1375346,https://doi.org/10.1155/2021/1375346
+U,829,342,2022,A novel design of multiple image encryption using perturbed chaotic map,Multimedia Tools and Applications,10.1007/s11042-022-12139-0,https://doi.org/10.1007/s11042-022-12139-0
+U,858,342,2023,Fast image encryption based on new cascade chaotic system and Rubik's cube strategy,Multimedia Tools and Applications,10.1007/s11042-023-16936-z,https://doi.org/10.1007/s11042-023-16936-z
+U,322,91,2023,FPGA Implementation of a Chaotic Map with No Fixed Point,Electronics,10.3390/electronics12020444,https://doi.org/10.3390/electronics12020444
+U,874,342,2024,A new chaotic system and its practical applications in substitution box and random number generator,Multimedia Tools and Applications,10.1007/s11042-024-19053-7,https://doi.org/10.1007/s11042-024-19053-7
+U,878,342,2024,Enhanced lightweight encryption algorithm based on chaotic systems,Physica Scripta,10.1088/1402-4896/ad75c5,https://doi.org/10.1088/1402-4896/ad75c5
+U,371,91,2024,Design and implementation in an Altera's cyclone IV EP4CE6E22C8 FPGA board of a fast and robust cipher using combined 1D maps,IET Image Processing,10.1049/ipr2.13066,https://doi.org/10.1049/ipr2.13066
+U,411,91,2024,Design and Enhancing Security Performance of Image Cryptography System Based on Fixed Point Chaotic Maps Stream Ciphers in FPGA,Baghdad Science Journal,10.21123/bsj.2024.10521,https://doi.org/10.21123/bsj.2024.10521
+U,897,342,2025,Enhanced logistic map with infinite chaos and its applicability in lightweight and high-speed pseudo-random bit generation,Cybersecurity,10.1186/s42400-024-00319-4,https://doi.org/10.1186/s42400-024-00319-4
+U,901,342,2025,Resource-Efficient One-Dimensional Discrete Chaotic Map-Based Pseudo-Random Number Generator for IoT Applications: A Practical Analysis,SN Computer Science,10.1007/s42979-025-04294-6,https://doi.org/10.1007/s42979-025-04294-6
+U,719,342,2026,Construction of a New Discrete Chaotic Mapping Based on the Robust Chaos Theorem,Mathematics,10.3390/math14050797,https://doi.org/10.3390/math14050797
+U,935,342,2026,Implementation of a new combined one dimension chaotic map for color video signal ciphering,Multimedia Tools and Applications,10.1007/s11042-026-21781-x,https://doi.org/10.1007/s11042-026-21781-x
+U,939,342,2026,A novel hybrid trigonometric chaotic map framework for cryptographically secure S-box generation,The European Physical Journal Plus,10.1140/epjp/s13360-026-07552-5,https://doi.org/10.1140/epjp/s13360-026-07552-5
+U,552,91,2026,Optimizing Chaotic Behavior: Systematic Shifting and Operations for Robust 1-D Chaotic Maps,Journal of Low Power Electronics and Applications,10.3390/jlpea16030026,https://doi.org/10.3390/jlpea16030026
+Y,613,342,2018,S-box design method based on improved one-dimensional discrete chaotic map,Journal of Information and Telecommunication,10.1080/24751839.2018.1434723,https://doi.org/10.1080/24751839.2018.1434723
+Y,618,342,2019,New pseudo-random number generator based on improved discrete-space chaotic map,Filomat,10.2298/fil1908257l,https://doi.org/10.2298/fil1908257l
+Y,626,342,2019,Deterministic chaotic finite-state automata,Nonlinear Dynamics,10.1007/s11071-019-05311-z,https://doi.org/10.1007/s11071-019-05311-z
+Y,629,342,2020,A new discrete-space chaotic map based on the multiplication of integer numbers and its application in S-box design,Nonlinear Dynamics,10.1007/s11071-020-05503-y,https://doi.org/10.1007/s11071-020-05503-y
+Y,97,91,2020,A Hardware Pseudo-Random Number Generator Using Stochastic Computing and Logistic Map.,Micromachines,10.3390/mi12010031,https://doi.org/10.3390/mi12010031
+Y,112,91,2020,Reducing the Dynamical Degradation of Digital Chaotic Maps with Time-Delay Linear Feedback and Parameter Perturbation,Mathematical Problems in Engineering,10.1155/2020/4926937,https://doi.org/10.1155/2020/4926937
+Y,640,342,2021,A novel one-dimensional chaotic map generator and its application in a new index representation-based image encryption scheme,Information Sciences,10.1016/j.ins.2021.02.022,https://doi.org/10.1016/j.ins.2021.02.022
+Y,646,342,2021,A novel block-based image encryption scheme using a new Sine powered chaotic map generator,Multimedia Tools and Applications,10.1007/s11042-021-10757-8,https://doi.org/10.1007/s11042-021-10757-8
+Y,203,91,2021,A novel perturbation method to reduce the dynamical degradation of digital chaotic maps,Nonlinear Dynamics,10.1007/s11071-020-06113-4,https://doi.org/10.1007/s11071-020-06113-4
+Y,223,91,2021,A new perturbation-feedback hybrid control method for reducing the dynamic degradation of digital chaotic systems and its application in image encryption,Multimedia Tools and Applications,10.1007/s11042-021-10680-y,https://doi.org/10.1007/s11042-021-10680-y
+Y,655,342,2022,A novel fast image encryption scheme based on a new one-dimensional compound sine chaotic system,The Visual Computer,10.1007/s00371-022-02640-w,https://doi.org/10.1007/s00371-022-02640-w
+Y,664,342,2022,Lyapunov Exponent Enhancement in Chaotic Maps with Uniform Distribution Modulo One Transformation,Chaos Theory and Applications,10.51537/chaos.1069002,https://doi.org/10.51537/chaos.1069002
+Y,255,91,2022,A Novel Chaos-Based Image Encryption Using Magic Square Scrambling and Octree Diffusing,Mathematics,10.3390/math10030457,https://doi.org/10.3390/math10030457
+Y,304,91,2023,Self-Parameterized Chaotic Map for Low-Cost Robust Chaos,Journal of Low Power Electronics and Applications,10.3390/jlpea13010018,https://doi.org/10.3390/jlpea13010018
+Y,426,91,2024,Leveraging Finite-Precision Errors in Chaotic Systems for Enhanced Image Encryption,IEEE Access,10.1109/access.2024.3462807,https://doi.org/10.1109/access.2024.3462807
+Y,697,342,2025,Image encryption algorithm based on a new one-dimensional chaotic map's generator,Bulletin of Electrical Engineering and Informatics,10.11591/eei.v14i4.9500,https://doi.org/10.11591/eei.v14i4.9500
+Y,707,342,2025,$$e$$-CM: A novel approach to advancing chaotic dynamics in discrete one-dimensional maps for secure IoT applications,Cybersecurity,10.1186/s42400-024-00347-0,https://doi.org/10.1186/s42400-024-00347-0
+Y,898,342,2025,Fractional order 1D memristive time-delay chaotic system with application to image encryption and FPGA implementation,Mathematics and Computers in Simulation,10.1016/j.matcom.2024.07.035,https://doi.org/10.1016/j.matcom.2024.07.035
+Y,467,91,2025,Counteracting dynamic degradation with an N-dimensional time-varying delay coupled chaotic map,Physica Scripta,10.1088/1402-4896/ae036d,https://doi.org/10.1088/1402-4896/ae036d
+Y,709,342,2026,Enhanced chaotic maps for sustainable cryptographic security,Nonlinear Analysis: Modelling and Control,10.15388/namc.2026.31.47015,https://doi.org/10.15388/namc.2026.31.47015

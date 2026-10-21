@@ -1,0 +1,3 @@
+REM1 (k=10,a=100): cycle found in 16/16; cycle min/med/max=33565250/33565250/33565250; median rho=110397829; eff.bits=52.8
+REM3 (k=2): cycle found in 9/16; cycle min/med/max=8011842/8011842/51492291; median rho=76033619; eff.bits=51.7
+STLEM (7.5,0.3,0.2,-0.5): cycle found in 3/16; cycle min/med/max=3198165/15364837/15364837; median rho=34560794; eff.bits=49.4

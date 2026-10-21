@@ -1,0 +1,4 @@
+  logistic m=16: 6 cycles; lengths: 1 79 119 18 7 1
+  LEL      m=16: 5 cycles; lengths: 1 15 80 102 5
+  logistic m=24: 9 cycles; lengths: 1 272 716 993 8 2 16 5 1
+  LEL      m=24: 13 cycles; lengths: 1 1504 793 532 151 78 151 23 8 10 4 2 ...

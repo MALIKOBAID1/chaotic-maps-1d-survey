@@ -1,0 +1,42 @@
+already_have_pdf,open_access,Publication Year,Title,Source Title,link,hardware,degradation_topic,stage1
+,,2019,Digital image scrambling based on a new one-dimensional coupled Sine map,Nonlinear Dynamics,https://doi.org/10.1007/s11071-019-05157-5,yes,,include
+,,2019,Image encryption based on the pseudo-orbits from 1D chaotic map,"Chaos (Woodbury, N.Y.)",https://doi.org/10.1063/1.5099261,,yes,include
+,,2019,Random property enhancement of a 1D chaotic PRNG with finite precision implementation,"Chaos, Solitons & Fractals",https://doi.org/10.1016/j.chaos.2018.11.019,,yes,uncertain
+,,2019,Enhancing unimodal digital chaotic maps through hybridisation,Nonlinear Dynamics,https://doi.org/10.1007/s11071-019-04809-w,,yes,uncertain
+,,2019,A new hybrid digital chaotic system with applications in image encryption,Signal Processing,https://doi.org/10.1016/j.sigpro.2019.02.016,,yes,uncertain
+,,2020,An improved digital logistic map and its application in image encryption,Multimedia Tools and Applications,https://doi.org/10.1007/s11042-020-09595-x,,yes,include
+,,2020,Enhanced digital chaotic maps based on bit reversal with applications in random bit generators,Information Sciences,https://doi.org/10.1016/j.ins.2019.10.055,,yes,uncertain
+,,2021,A novel image encryption algorithm based on improved key selection and digital chaotic map,Multimedia Tools and Applications,https://doi.org/10.1007/s11042-021-10807-1,,yes,include
+,,2021,Cascade-sine chaotification model for producing chaos,Nonlinear Dynamics,,,,uncertain
+,,2022,A novel exponential one-dimensional chaotic map enhancer and its application in an image encryption scheme using modified ZigZag transform,Journal of Information Security and Applications,https://doi.org/10.1016/j.jisa.2022.103304,,,include
+,,2022,A Random Irregular Blocking Image Encryption Algorithm Based on Improved Digital Chaotic Maps at Bit Level,International Journal of Bifurcation and Chaos,https://doi.org/10.1142/s0218127422500547,,yes,uncertain
+,,2023,The Parallel Chaotification Map and Its Application,IEEE Transactions on Circuits and Systems I: Regular Papers,https://doi.org/10.1109/tcsi.2023.3279371,yes,,uncertain
+,,2023,A Simple Chaotic Model With Complex Chaotic Behaviors and Its Hardware Implementation,IEEE Transactions on Circuits and Systems I: Regular Papers,https://doi.org/10.1109/tcsi.2023.3283877,yes,,include
+,,2024,A Novel Fibonacci-Sequence-Based Chaotification Model for Enhancing Chaos in 1-D Maps,IEEE Internet of Things Journal,https://doi.org/10.1109/jiot.2024.3450547,,,include
+,,2024,An Area Efficient Architecture of a Novel Chaotic System for High Randomness Security in e-Health,IEEE Computer Architecture Letters,https://doi.org/10.1109/lca.2024.3387352,yes,,uncertain
+,,2024,A special image encryption strategy based on a novel digital chaotic system and binary block compressed sensing for fixed-point DSP,Nonlinear Dynamics,https://doi.org/10.1007/s11071-024-10638-3,yes,yes,uncertain
+,,2025,A Novel Approach to Construct 1-D Discrete Complex Variable Chaotic Systems and Its Application,IEEE Transactions on Industrial Informatics,https://doi.org/10.1109/tii.2025.3600762,yes,yes,include
+,,2025,A novel model for 1D chaotic map generation with FPGA implementation and PRNG application,Nonlinear Dynamics,https://doi.org/10.1007/s11071-025-11527-z,yes,,include
+,,2025,Generalized novel digitized chaotic system control method with output sequence cycle length up to the theoretical upper limit and FPGA implementation,Nonlinear Dynamics,https://doi.org/10.1007/s11071-025-11184-2,yes,,uncertain
+,,2026,A Novel Generic Chaotic Framework and Its Application in Remote Sensing Image Encryption,International Journal of Bifurcation and Chaos,https://doi.org/10.1142/s0218127426501555,yes,,uncertain
+,,2026,Implementation and Testing of an Image Encryption Algorithm Using a Novel Chaotic Map,IETE Journal of Research,,yes,,uncertain
+,,2026,STCAMI-NCM: Secure Triggered Cryptographic Algorithm for Medical Images using Novel Chaotic Map with FPGA Implementation,IEEE Internet of Things Journal,https://doi.org/10.1109/jiot.2026.3733138,yes,,uncertain
+,yes,2019,FPGA implementation of color image encryption using a new chaotic map,Indonesian Journal of Electrical Engineering and Computer Science,https://doi.org/10.11591/ijeecs.v13.i1.pp129-137,yes,,uncertain
+,yes,2021,Designing 1D Chaotic Maps for Fast Chaotic Image Encryption,Electronics,https://doi.org/10.3390/electronics10172116,yes,,include
+,yes,2022,Improved One-Dimensional Piecewise Chaotic Maps for Information Security,Journal of Communications,https://doi.org/10.12720/jcm.17.1.11-16,yes,,include
+,yes,2022,Chaotification of One-Dimensional Maps Based on Remainder Operator Addition,Mathematics,https://doi.org/10.3390/math10152801,,,include
+,yes,2022,A novel content-selected image encryption algorithm based on the LS chaotic model,Journal of King Saud University - Computer and Information Sciences,https://doi.org/10.1016/j.jksuci.2022.08.007,,,uncertain
+,yes,2022,An Effective Image Encryption Algorithm Using Bit Reversal Permutation and a New Chaotic Map,Gazi University Journal of Science,https://doi.org/10.35378/gujs.872818,yes,,uncertain
+,yes,2022,A Chaotification Model Based on Modulo Operator and Secant Functions for Enhancing Chaos,Chaos Theory and Applications,https://doi.org/10.51537/chaos.1214569,,,uncertain
+,yes,2023,Chaotification of 1D Maps by Multiple Remainder Operator Additions—Application to B-Spline Curve Encryption,Symmetry,https://doi.org/10.3390/sym15030726,,,include
+,yes,2023,An Improved Absolute-Cosine Chaotification Model and Its Simple Application in PRNG,IEEE Access,https://doi.org/10.1109/access.2023.3282370,yes,,uncertain
+,yes,2024,A Hardware-Accelerated Approach to Chaotic Image Encryption: LTB Map and FPGA Implementation,IEEE Access,https://doi.org/10.1109/access.2024.3432008,yes,,include
+,yes,2025,An Exponentially Delayed Feedback Chaotic Model Resistant to Dynamic Degradation and Its Application,Mathematics,https://doi.org/10.3390/math13142324,,yes,include
+,yes,2025,Enhanced secure encryption scheme using dual chaotic models for OFDM-VLC system with HD-MMIM.,Optics express,https://doi.org/10.1364/oe.564031,,,uncertain
+,yes,2026,A novel exposine chaotic map for secure image encryption with applications in adaptive cruise control,Array,https://doi.org/10.1016/j.array.2026.100710,yes,yes,include
+,yes,2026,A Color Image Encryption Scheme Using an Enhanced One-Dimensional Chaotic Map and Adaptive DNA Encoding,Entropy,https://doi.org/10.3390/e28091015,,yes,include
+yes,yes,2019,Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation,IEEE Transactions on Industrial Electronics,https://doi.org/10.1109/tie.2018.2833049,yes,,include
+yes,yes,2022,"Design, Analysis, and Application of Flipped Product Chaotic System",IEEE Access,https://doi.org/10.1109/access.2022.3225661,yes,,include
+yes,yes,2022,Exponential sine chaotification model for enhancing chaos and its hardware implementation,Chinese Physics B,https://doi.org/10.1088/1674-1056/ac6335,yes,,include
+yes,yes,2023,Buffeting Chaotification Model for Enhancing Chaos and Its Hardware Implementation,IEEE Transactions on Industrial Electronics,https://doi.org/10.1109/tie.2022.3174288,yes,,include
+yes,yes,2025,Multimodal Chaotification Model With Hardware Implementation,IEEE Transactions on Industrial Electronics,https://doi.org/10.1109/tie.2024.3429660,yes,,include

@@ -1,0 +1,3 @@
+SML (r=200): cycle found in 16/16; cycle min/med/max=1798457/1924877/7201430; median rho=12027122; eff.bits=46.4
+LT (CL=0.9,CT=0.25): cycle found in 16/16; cycle min/med/max=16362119/54511985/54511985; median rho=93062459; eff.bits=52.3
+E1 (p=0.9): cycle found in 16/16; cycle min/med/max=41576920/41576920/41576920; median rho=50852355; eff.bits=50.5

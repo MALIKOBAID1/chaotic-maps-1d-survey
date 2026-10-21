@@ -1,0 +1,8 @@
+e-CM logistic r=100 binary64: cycle found in 16/16; cycle min/med/max=761/6591/6591; median rho=7896; eff.bits=25.2
+e-CM logistic r=4 binary64: cycle found in 16/16; cycle min/med/max=22124/52320/52320; median rho=68669; eff.bits=31.5
+e-CM logistic r=100 binary32: cycle found in 16/16; cycle min/med/max=1/1/1; median rho=2; eff.bits=1.3
+e-CM logistic r=4 binary32: cycle found in 16/16; cycle min/med/max=1/3/3; median rho=4; eff.bits=3.3
+LE-cubic a=1e5 s=2.82: cycle found in 16/16; cycle min/med/max=1633/204681/299731; median rho=244423; eff.bits=35.1
+LE-sinh a=1e2 s=3.4: cycle found in 16/16; cycle min/med/max=2793328/10853969/10853969; median rho=13516835; eff.bits=46.7
+Generator-logistic a=560 b=0.9: cycle found in 16/16; cycle min/med/max=1/700444/6148843; median rho=9315183; eff.bits=45.7
+SPM-logistic C=0.5: cycle found in 16/16; cycle min/med/max=2530059/5553348/25547962; median rho=32974083; eff.bits=49.3
